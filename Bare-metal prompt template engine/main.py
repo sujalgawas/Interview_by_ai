@@ -1,4 +1,5 @@
 #main.py
+from engine import PromptTemplate, MissingVariableError
 
 # --- EVALUATION SCRIPT (Append this to your code) ---
 if __name__ == "__main__":
